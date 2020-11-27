@@ -1,2 +1,2 @@
 # azure-landing-zone
-Azure Landing Zone
+Azure Landing Zone placeholder
